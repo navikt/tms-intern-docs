@@ -51,7 +51,7 @@ Oversikt over frontend-repoer eid av team **min-side** (`navikt/min-side`) – *
 | [tms-astro-auth](https://github.com/navikt/tms-astro-auth) | TypeScript | Astro-middleware for autentisering via Wonderwall/Nais |
 | [tms-astro-logger](https://github.com/navikt/tms-astro-logger) | TypeScript | Egendefinert Astro-logger med strukturerte JSON-logger for Nav/Grafana |
 | [tms-astro-mocks](https://github.com/navikt/tms-astro-mocks) | TypeScript | Astro-integrasjon som serverer mock-HTTP-endepunkter under utvikling |
-| [tms-shared-dependencies](https://github.com/navikt/tms-shared-dependencies) | JavaScript | Delte avhengigheter (bl.a. React/React-DOM) for TMS-frontendene |
+| [tms-shared-dependencies](https://github.com/navikt/tms-shared-dependencies) | JavaScript | Delte avhengigheter (bl.a. React/React-DOM) som brukes i mikrofrontendene og Min side |
 
 ## Øvrige (docs, redirect, prototype, test)
 
