@@ -54,6 +54,7 @@ Oversikt over frontend-repoer eid av team **min-side** (`navikt/min-side`) – *
 | [tms-astro-logger](https://github.com/navikt/tms-astro-logger) | TypeScript |
 | [tms-astro-mocks](https://github.com/navikt/tms-astro-mocks) | TypeScript |
 | [tms-astro-monorepo](https://github.com/navikt/tms-astro-monorepo) | TypeScript |
+| [tms-shared-dependencies](https://github.com/navikt/tms-shared-dependencies) | JavaScript |
 | [npm-to-esm](https://github.com/navikt/npm-to-esm) | JavaScript |
 
 ## Øvrige (docs, redirect, prototype, test)
