@@ -7,7 +7,6 @@ Oversikt over frontend-repoer eid av team **min-side** (`navikt/min-side`) – *
 | Repo | Stack |
 |---|---|
 | [tms-min-side](https://github.com/navikt/tms-min-side) | TypeScript |
-| [tms-shell](https://github.com/navikt/tms-shell) | TypeScript |
 | [tms-dokumentarkiv-frontend](https://github.com/navikt/tms-dokumentarkiv-frontend) | TypeScript |
 | [tms-utbetalingsoversikt-frontend](https://github.com/navikt/tms-utbetalingsoversikt-frontend) | TypeScript |
 | [tms-utkast-frontend](https://github.com/navikt/tms-utkast-frontend) | TypeScript |
@@ -43,7 +42,6 @@ Oversikt over frontend-repoer eid av team **min-side** (`navikt/min-side`) – *
 |---|---|
 | [tms-astro-template](https://github.com/navikt/tms-astro-template) | TypeScript |
 | [tms-astro-template-azure](https://github.com/navikt/tms-astro-template-azure) | TypeScript |
-| [astro-azure-template](https://github.com/navikt/astro-azure-template) | TypeScript |
 | [tms-microfrontend-template-ssr](https://github.com/navikt/tms-microfrontend-template-ssr) | TypeScript |
 
 ## Biblioteker / verktøy
@@ -53,9 +51,7 @@ Oversikt over frontend-repoer eid av team **min-side** (`navikt/min-side`) – *
 | [tms-astro-auth](https://github.com/navikt/tms-astro-auth) | TypeScript |
 | [tms-astro-logger](https://github.com/navikt/tms-astro-logger) | TypeScript |
 | [tms-astro-mocks](https://github.com/navikt/tms-astro-mocks) | TypeScript |
-| [tms-astro-monorepo](https://github.com/navikt/tms-astro-monorepo) | TypeScript |
 | [tms-shared-dependencies](https://github.com/navikt/tms-shared-dependencies) | JavaScript |
-| [npm-to-esm](https://github.com/navikt/npm-to-esm) | JavaScript |
 
 ## Øvrige (docs, redirect, prototype, test)
 
