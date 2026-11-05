@@ -55,3 +55,14 @@ Oversikt over frontend-repoer eid av team **min-side** (`navikt/min-side`) – *
 | [tms-astro-mocks](https://github.com/navikt/tms-astro-mocks) | TypeScript |
 | [tms-astro-monorepo](https://github.com/navikt/tms-astro-monorepo) | TypeScript |
 | [npm-to-esm](https://github.com/navikt/npm-to-esm) | JavaScript |
+
+## Øvrige (docs, redirect, prototype, test)
+
+Frontend-stack-repoer som ikke er egne applikasjoner, men tatt med for fullstendighet.
+
+| Repo | Stack | Merknad |
+|---|---|---|
+| [tms-docs](https://github.com/navikt/tms-docs) | TypeScript | Dokumentasjonsside |
+| [tms-dokumentarkiv-redirect](https://github.com/navikt/tms-dokumentarkiv-redirect) | JavaScript | Redirect-tjeneste |
+| [tms-produktside-prototype](https://github.com/navikt/tms-produktside-prototype) | Astro | Prototype |
+| [tms-microfrontend-do-test](https://github.com/navikt/tms-microfrontend-do-test) | Astro | Test-repo |
