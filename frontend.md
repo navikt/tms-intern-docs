@@ -61,5 +61,4 @@ Frontend-stack-repoer som ikke er egne applikasjoner, men tatt med for fullstend
 |---|---|---|---|
 | [tms-docs](https://github.com/navikt/tms-docs) | Astro | Dokumentasjonsside | Dokumentasjonssiden til Team Min side (tms-docs.nav.no) |
 | [tms-dokumentarkiv-redirect](https://github.com/navikt/tms-dokumentarkiv-redirect) | JavaScript | Redirect-tjeneste | Node.js-tjeneste som videresender gamle Mine saker-lenker til dokumentarkivet |
-| [tms-produktside-prototype](https://github.com/navikt/tms-produktside-prototype) | Astro | Prototype | Prototype for en produktside |
 | [tms-microfrontend-do-test](https://github.com/navikt/tms-microfrontend-do-test) | Astro | Test-repo | Test-repo basert på mikrofrontend-malen |
