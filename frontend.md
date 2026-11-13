@@ -11,7 +11,6 @@ Oversikt over frontend-repoer eid av team **min-side** (`navikt/min-side`) – *
 | [tms-utbetalingsoversikt-frontend](https://github.com/navikt/tms-utbetalingsoversikt-frontend) | Astro | Frontend for utbetalingsoversikt på Min side |
 | [tms-utkast-frontend](https://github.com/navikt/tms-utkast-frontend) | Astro | Frontend for visning av utkast (påbegynte søknader) på Min side |
 | [tms-varsler-frontend](https://github.com/navikt/tms-varsler-frontend) | Astro | Frontend for visning av varsler på Min side |
-| [arbeidsforhold](https://github.com/navikt/arbeidsforhold) | TypeScript | React-komponenter for visning av arbeidsforhold |
 | [personopplysninger](https://github.com/navikt/personopplysninger) | Astro | Visning av personopplysninger i henhold til GDPR |
 | [tms-min-side-demo](https://github.com/navikt/tms-min-side-demo) | Astro | Demo-container som setter sammen mikrofrontends for Min side |
 | [tms-test-producer-frontend](https://github.com/navikt/tms-test-producer-frontend) | Astro | Frontend for å opprette testeventer (utkast og varsler) for gjeldende bruker |
