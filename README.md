@@ -6,4 +6,5 @@ Intern utviklerdokumentasjon for team **Min side** (`navikt/min-side`).
 
 ## Dokumentasjon
 
-- [Frontend-applikasjoner](frontend.md) – oversikt over frontend-repoene til team Min side (hovedapper, mikrofrontender, maler, biblioteker m.m.).
+- [Frontend-applikasjoner](frontend/applications.md) – oversikt over frontend-repoene til team Min side (hovedapper, mikrofrontender, maler, biblioteker m.m.).
+- [Aktivere merge queue](frontend/merge-queue.md) – oppskrift for å slå på auto-merge og ruleset med påkrevde statussjekker.
